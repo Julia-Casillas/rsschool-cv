@@ -4,7 +4,7 @@
 **Email**: [6724898@gmall.com](mailto:6724898@gmall.com)  
 **Address**: Eindhoven, Netherlands
 
-## 3. Summary
+## Summary
 After building a successful career in advertising as a project and account manager, I am excited to channel my passion for problem-solving and growth into a new path as a **Junior Developer**. My decision to transition into tech is driven by a deep commitment to continuous learning. I am currently starting a **Front-End Development course on JavaScript**, with a goal to secure an internship, enhance my skills, and become a skilled developer.
 
 Throughout my career, I have shown a strong ability to adapt and excel in new domains. While completing my degree in **Finance and Control**, I ventured into the advertising world, rapidly advancing from a part-time role to positions as both Project Manager and Senior Account Manager. This journey equipped me with a strong foundation in client communication, strategic planning, and the agility required to manage complex projects. My experience in learning an entirely new industry from the ground up gives me confidence in my ability to master the technical skills needed to succeed as a developer.
