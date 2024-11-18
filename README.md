@@ -1,1 +1,1 @@
-[My CV](https://github.com/Julia-Casillas/rsschool-cv/blob/gh-pages/cv.md)
+[My CV](https://julia-casillas.github.io/rsschool-cv/cv)
